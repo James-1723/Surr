@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+venv/Lib
+/dangerous record/*
+/runs
+/venv
+/visit history/*
+/face/dnn/*
+/face/haar/*
+/face/yolov8/*
+/face/hog/*
+/face/cnn/*
+/result.csv
+/test
+/框选结果
+!/face/yolov8/.gitkeep
+!/face/haar/.gitkeep
+!/face/dnn/.gitkeep
+!/face/hog/.gitkeep
+!/face/cnn/.gitkeep
+!/visit history/.gitkeep
+!/dangerous record/.gitkeep
